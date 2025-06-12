@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# scpopulation
+# scutils
 
 ## An R-package containing generic functions for analysis for the state of South Carolina.
 
