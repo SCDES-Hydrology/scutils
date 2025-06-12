@@ -1,0 +1,32 @@
+Package: scutils
+Type: Package
+Title: Utility Functions for the South Carolina Department of Environmental Services Hydrology Section
+Version: 0.2.0
+Authors@R: c(
+    person("C A", "Pellett", , "c.alex.pellett@gmail.com", role = c("aut", "cre")),
+    person("N J", "Pinder", , "nicholas.pinder@des.sc.gov", role = c("aut")),
+    person("State of South Carolina Department of Environmental Services", role = "fnd")
+  )
+Maintainer: Nicholas Pinder  <nicholas.pinder@des.sc.gov>
+Description: Generic functions that are useful for a variety of other analyses.
+License: MIT + file LICENSE
+Depends: 
+    R (>= 4.5)
+Imports: 
+    dplyr,
+    methods,
+    sf,
+    sp,
+    stringr,
+    tibble,
+    tidyr,
+    zoo, 
+    ggplot2
+Suggests: 
+    knitr,
+    testthat, 
+    rmarkdown
+Encoding: UTF-8
+VignetteBuilder: knitr
+LazyData: true
+RoxygenNote: 7.2.0
