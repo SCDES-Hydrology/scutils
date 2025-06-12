@@ -9,8 +9,8 @@ Authors@R: c(
   )
 Maintainer: Nicholas Pinder  <nicholas.pinder@des.sc.gov>
 Description: Generic functions that are useful for a variety of other analyses.
-URL: https://github.com/SCDES-Hydrology/scpopulation
-BugReports: https://github.com/SCDES-Hydrology/scsf/issues
+URL: https://github.com/SCDES-Hydrology/scutils
+BugReports: https://github.com/SCDES-Hydrology/scutils/issues
 License: MIT + file LICENSE
 Depends: 
     R (>= 4.5)
