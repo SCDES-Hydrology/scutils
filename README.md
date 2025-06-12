@@ -2,10 +2,10 @@
 
 # scpopulation
 
-## An R-package containing population projections for the state of South Carolina.
+## An R-package containing generic functions for analysis for the state of South Carolina.
 
 `scutils` is an open-source R-package published as a repository on
-GitHub. The package stores Generic functions that are useful for a variety 
+GitHub. The package stores generic functions that are useful for a variety 
 of other analyses. This website documents the scutils
 R-package and provides access to the data for the general public without
 requiring the use of R software.
