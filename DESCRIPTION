@@ -1,7 +1,7 @@
 Package: scutils
 Type: Package
 Title: Utility Functions for the South Carolina Department of Environmental Services Hydrology Section
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("C A", "Pellett", , "c.alex.pellett@gmail.com", role = c("aut", "cre")),
     person("N J", "Pinder", , "nicholas.pinder@des.sc.gov", role = c("aut")),
